@@ -1,3 +1,5 @@
+# Git
+
 git init
 
 git config --global user.email "user@email.com"
@@ -54,7 +56,8 @@ Pull request를 보냈을 때 충돌이 난다면 두 가지 방법 선택 가�
   - 히스토리를 강제로 조작하기 때문에 Rebase는 반드시 혼자만 쓰는 브랜치에서 수행해야 함
   - 강제 푸시 이용
 
-
+# Amend last commit
+amend: 방금 했던 커밋을 원격 저장소 까지 푸시 했더라도 수정 가능
 
 
 
